@@ -1,0 +1,19 @@
+h1{
+    color:red;
+   font-size:80px;
+}
+html{
+    text-align:center;
+}
+.body_background{
+background-image: url("bg1.jpg");
+background-position: center;
+background-size: cover;
+}
+
+#mycanvas{
+border-width:white;
+border-style:ridge;
+}
+
+
